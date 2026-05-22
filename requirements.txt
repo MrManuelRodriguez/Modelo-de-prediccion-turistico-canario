@@ -1,0 +1,13 @@
+pandas
+scikit-learn
+pymongo
+dnspython
+matplotlib
+seaborn
+streamlit
+python-dotenv
+xgboost
+plotly
+fastapi
+uvicorn
+tabulate

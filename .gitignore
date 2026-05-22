@@ -1,0 +1,23 @@
+# --- Credenciales y variables de entorno ---
+.env
+
+# --- Directorios de cache y temporales ---
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+.streamlit/config.toml
+scratch/
+
+# --- Datos pesados (opcional, pero recomendado si son muy grandes) ---
+# data/raw/
+# data/processed/
+
+# --- IDEs y editores ---
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
